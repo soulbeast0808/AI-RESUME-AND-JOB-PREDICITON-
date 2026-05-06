@@ -1,0 +1,2068 @@
+{
+  "candidates": {
+    "c6bd406e-19c3-4c05-a118-89abaaa674c0": {
+      "profile": {
+        "name": "prashant deshpande",
+        "email": "prashantdeshpande.joap@gmail.com",
+        "targetRole": "product-manager",
+        "createdAt": "2026-04-22T17:46:53.993Z"
+      },
+      "history": [
+        {
+          "resumeId": "f48ae361-731b-4d04-b524-08b4e80984a8",
+          "uploadedAt": "2026-04-22T17:46:53.993Z",
+          "fileName": "SnehaRajResume.pdf",
+          "totalScore": 59,
+          "structureScore": 73,
+          "relevanceScore": 19,
+          "contentQualityScore": 98,
+          "shortlistProbability": 53,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 70
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 53
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 36
+            },
+            {
+              "role": "Product Manager",
+              "matchScore": 31
+            }
+          ]
+        },
+        {
+          "resumeId": "c0a0d489-f824-43e1-93e2-bc52dcb1be6f",
+          "uploadedAt": "2026-04-22T17:47:35.355Z",
+          "fileName": "SnehaRajResume.pdf",
+          "totalScore": 70,
+          "structureScore": 73,
+          "relevanceScore": 46,
+          "contentQualityScore": 98,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "power bi",
+            "statistics",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 74
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Product Manager",
+              "matchScore": 35
+            }
+          ]
+        },
+        {
+          "resumeId": "685e13d5-5fba-478a-a2b5-cd8071c32d87",
+          "uploadedAt": "2026-04-22T17:47:47.109Z",
+          "fileName": "SnehaRajResume.pdf",
+          "totalScore": 51,
+          "structureScore": 73,
+          "relevanceScore": 0,
+          "contentQualityScore": 98,
+          "shortlistProbability": 40,
+          "missingSkills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "typescript",
+            "responsive design"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 68
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 33
+            },
+            {
+              "role": "Product Manager",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "fadae6c3-8431-43f4-a1c4-b5d412860fdd",
+          "uploadedAt": "2026-04-22T18:21:48.503Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 50,
+          "structureScore": 55,
+          "relevanceScore": 13,
+          "contentQualityScore": 95,
+          "shortlistProbability": 39,
+          "missingSkills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "typescript",
+            "responsive design"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 76
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 47
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 35
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 24
+            }
+          ]
+        },
+        {
+          "resumeId": "7c7cf203-c6b9-440e-8399-f76fa09d02b1",
+          "uploadedAt": "2026-04-22T18:21:58.826Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "b76471ea-b8f8-49ea-9237-dc334be24754",
+          "uploadedAt": "2026-04-22T18:22:04.894Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 55,
+          "structureScore": 55,
+          "relevanceScore": 25,
+          "contentQualityScore": 95,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 78
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 49
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 37
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 26
+            }
+          ]
+        },
+        {
+          "resumeId": "075174d8-5372-4a76-ba8f-b74f6de48fe4",
+          "uploadedAt": "2026-04-22T18:22:10.757Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        },
+        {
+          "resumeId": "5e6147a6-fc5b-4188-aa6d-b085001dc518",
+          "uploadedAt": "2026-04-22T18:25:58.042Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "f73baf42-9ed8-46e9-99b4-3a41fcf4c9cf",
+          "uploadedAt": "2026-04-22T18:26:24.515Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        },
+        {
+          "resumeId": "d681b0c8-c379-4065-a325-ecbfdc76b7bd",
+          "uploadedAt": "2026-04-22T18:27:59.047Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "a14ae44e-386e-460c-8f32-bb42fa59f7c7",
+          "uploadedAt": "2026-04-22T18:29:55.226Z",
+          "fileName": "SnehaRajResume.pdf",
+          "totalScore": 70,
+          "structureScore": 73,
+          "relevanceScore": 46,
+          "contentQualityScore": 98,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "power bi",
+            "statistics",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 74
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Product Manager",
+              "matchScore": 35
+            }
+          ]
+        },
+        {
+          "resumeId": "d09f520e-a696-4717-aa6a-21f16b5824d9",
+          "uploadedAt": "2026-04-22T18:30:42.223Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "68492583-2a67-4ea0-bd11-1e3b812087a1",
+          "uploadedAt": "2026-04-22T18:31:02.209Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        },
+        {
+          "resumeId": "981283d6-ed61-4845-ba38-e77a6e2a5a8c",
+          "uploadedAt": "2026-04-22T18:45:05.182Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 59,
+          "structureScore": 83,
+          "relevanceScore": 11,
+          "contentQualityScore": 100,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "python",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "numpy"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 54
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 36
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 33
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 29
+            }
+          ]
+        },
+        {
+          "resumeId": "50ce9c10-7d47-4c98-92a0-b2a17029b769",
+          "uploadedAt": "2026-04-22T18:45:09.768Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 64,
+          "structureScore": 83,
+          "relevanceScore": 22,
+          "contentQualityScore": 100,
+          "shortlistProbability": 51,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "git",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 56
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 38
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 35
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 31
+            }
+          ]
+        },
+        {
+          "resumeId": "e77a3bbf-40ae-433c-9415-d4bfd4e4b3d1",
+          "uploadedAt": "2026-04-22T18:45:15.899Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 67,
+          "structureScore": 83,
+          "relevanceScore": 30,
+          "contentQualityScore": 100,
+          "shortlistProbability": 54,
+          "missingSkills": [
+            "python",
+            "excel",
+            "power bi",
+            "statistics",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 57
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 39
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 36
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 32
+            }
+          ]
+        },
+        {
+          "resumeId": "913116e6-f223-4fbe-a1ad-97f4b3c0e014",
+          "uploadedAt": "2026-04-22T18:45:19.922Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 60,
+          "structureScore": 83,
+          "relevanceScore": 13,
+          "contentQualityScore": 100,
+          "shortlistProbability": 45,
+          "missingSkills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "typescript",
+            "responsive design"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 55
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 36
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 34
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 30
+            }
+          ]
+        },
+        {
+          "resumeId": "081cfee0-687d-46b1-8efd-7a77258637e7",
+          "uploadedAt": "2026-04-22T18:46:24.526Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 59,
+          "structureScore": 83,
+          "relevanceScore": 11,
+          "contentQualityScore": 100,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "python",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "numpy"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 54
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 36
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 33
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 29
+            }
+          ]
+        },
+        {
+          "resumeId": "aa6089bc-869a-41c5-bec1-aa92c125b6aa",
+          "uploadedAt": "2026-04-22T18:46:44.745Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 64,
+          "structureScore": 83,
+          "relevanceScore": 22,
+          "contentQualityScore": 100,
+          "shortlistProbability": 51,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "git",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 56
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 38
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 35
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 31
+            }
+          ]
+        },
+        {
+          "resumeId": "eff48467-30c4-48b4-aa55-a7bd189f1cbf",
+          "uploadedAt": "2026-04-22T18:47:00.022Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 76,
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 60
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 35
+            }
+          ]
+        },
+        {
+          "resumeId": "9ba21d48-4920-4639-a92e-f8abb125d4c0",
+          "uploadedAt": "2026-04-22T18:47:14.104Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 60,
+          "structureScore": 83,
+          "relevanceScore": 13,
+          "contentQualityScore": 100,
+          "shortlistProbability": 45,
+          "missingSkills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "typescript",
+            "responsive design"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 55
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 36
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 34
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 30
+            }
+          ]
+        },
+        {
+          "resumeId": "bbf4fbf6-73fe-4a55-afbd-3f6bbfed922c",
+          "uploadedAt": "2026-04-22T18:47:26.421Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 64,
+          "structureScore": 83,
+          "relevanceScore": 22,
+          "contentQualityScore": 100,
+          "shortlistProbability": 51,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "git",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 56
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 38
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 35
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 31
+            }
+          ]
+        },
+        {
+          "resumeId": "44ad842b-44b7-4a10-917b-5d85e7c99497",
+          "uploadedAt": "2026-04-22T18:51:10.767Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 76,
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 60
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 35
+            }
+          ]
+        },
+        {
+          "resumeId": "8c362915-ce4c-4eb5-8a99-c6ddc897af60",
+          "uploadedAt": "2026-04-22T18:51:40.566Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 76,
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 60
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 35
+            }
+          ]
+        },
+        {
+          "resumeId": "219a3ac4-6bbb-4319-830e-ba0654e871ce",
+          "uploadedAt": "2026-04-22T18:51:42.441Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 76,
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 60
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 35
+            }
+          ]
+        }
+      ],
+      "latest": {
+        "targetRole": "product-manager",
+        "analysis": {
+          "extracted": {
+            "skills": [
+              "a/b testing",
+              "accessibility",
+              "agile",
+              "azure",
+              "ci/cd",
+              "go-to-market",
+              "prioritization",
+              "roadmap",
+              "sql",
+              "stakeholder management",
+              "tableau",
+              "testing"
+            ],
+            "projects": [
+              "Product Manager with 8+ years building EdTech and SaaS platforms in regulated environments. Expanded an LMS/SIS platform from 1 to 8",
+              "states, driving 40% market growth. Led cloud migrations, payments integrations, and compliance initiatives for platforms serving 300k+",
+              "Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "Defined requirements for per student and per seat billing system in partnership with sales and engineering; accurate license tracking",
+              "Owned backlog and roadmap for a cloud based education platform serving 300k+ users across 1,800 schools; shipped 14 releases with 40%",
+              "Led requirements and validation for on prem to hybrid cloud migration (Azure), improving system response time 35% and reducing",
+              "Defined integration requirements for payment gateway and vendor management system; streamlined invoice processing reduced payment",
+              "Delivered a secure learning platform for Department of Justice juvenile detention facilities, enabling continued education for 2500+ students"
+            ],
+            "experienceHighlights": [
+              "Product Manager",
+              "Florida Virtual School Orlando FL (Remote) Nov 2023 – Present",
+              "• Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "accessibility – growing addressable market by 40% and contributing to $1.2M in new contract pipelines.",
+              "• Redesigned 6 core modules (Reports, Gradebook, Email, Outcomes, CMT, Proof Shell) based on teacher and student feedback; adoption of",
+              "redesign features increased 30% within 90 days of release."
+            ],
+            "education": [
+              "MS Information Technology Management Campbellsville University 2023",
+              "Master of Business Administration University of Colorado Boulder 2021",
+              "Bachelor of Engineering Visvesvaraya Technological University 2014"
+            ]
+          },
+          "projects": {
+            "projectDescriptions": [
+              "Product Manager with 8+ years building EdTech and SaaS platforms in regulated environments. Expanded an LMS/SIS platform from 1 to 8",
+              "states, driving 40% market growth. Led cloud migrations, payments integrations, and compliance initiatives for platforms serving 300k+",
+              "Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "Defined requirements for per student and per seat billing system in partnership with sales and engineering; accurate license tracking",
+              "Owned backlog and roadmap for a cloud based education platform serving 300k+ users across 1,800 schools; shipped 14 releases with 40%",
+              "Led requirements and validation for on prem to hybrid cloud migration (Azure), improving system response time 35% and reducing",
+              "Defined integration requirements for payment gateway and vendor management system; streamlined invoice processing reduced payment",
+              "Delivered a secure learning platform for Department of Justice juvenile detention facilities, enabling continued education for 2500+ students"
+            ],
+            "avgProjectStrength": 1.875
+          },
+          "experience": {
+            "yearsOfExperience": 0,
+            "roleMentions": 4,
+            "bulletCount": 14
+          },
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "totalScore": 76,
+          "skillGap": {
+            "role": "Product Manager",
+            "missingSkills": [
+              "analytics",
+              "communication",
+              "user research"
+            ],
+            "importantMissing": [],
+            "coverage": 40,
+            "nextLearningSteps": [
+              "analytics",
+              "communication",
+              "user research",
+              "Product discovery methods",
+              "Experiment design"
+            ]
+          },
+          "recommendations": {
+            "roles": [
+              {
+                "key": "product-manager",
+                "role": "Product Manager",
+                "matchScore": 60,
+                "reason": "Matches 2/5 core skills"
+              },
+              {
+                "key": "data-analyst",
+                "role": "Data Analyst",
+                "matchScore": 42,
+                "reason": "Matches 1/6 core skills"
+              },
+              {
+                "key": "software-engineer",
+                "role": "Software Engineer",
+                "matchScore": 39,
+                "reason": "Matches 1/7 core skills"
+              },
+              {
+                "key": "data-scientist",
+                "role": "Data Scientist",
+                "matchScore": 35,
+                "reason": "Matches 1/6 core skills"
+              }
+            ],
+            "listings": [
+              {
+                "id": "job-101",
+                "role": "software-engineer",
+                "title": "Backend Engineer",
+                "company": "Nexa Labs",
+                "location": "Bangalore",
+                "summary": "Build scalable APIs and distributed services."
+              },
+              {
+                "id": "job-102",
+                "role": "software-engineer",
+                "title": "Full Stack Developer",
+                "company": "Orbit Stack",
+                "location": "Hyderabad",
+                "summary": "Own product features across React and Node.js."
+              },
+              {
+                "id": "job-103",
+                "role": "data-analyst",
+                "title": "Business Data Analyst",
+                "company": "Insightly",
+                "location": "Pune",
+                "summary": "Create KPI dashboards and uncover business trends."
+              },
+              {
+                "id": "job-104",
+                "role": "data-scientist",
+                "title": "Applied ML Scientist",
+                "company": "PatternGrid",
+                "location": "Bangalore",
+                "summary": "Build and deploy predictive models for customer intelligence."
+              },
+              {
+                "id": "job-105",
+                "role": "product-manager",
+                "title": "Associate Product Manager",
+                "company": "Streamline",
+                "location": "Remote",
+                "summary": "Drive product discovery and launch experiments."
+              }
+            ]
+          },
+          "shortlistPrediction": {
+            "probability": 65,
+            "label": "Medium",
+            "note": "Heuristic estimate based on resume quality and role fit. Use as directional guidance."
+          },
+          "suggestions": [
+            "Add or build experience in missing skills for Product Manager: analytics, communication, user research.",
+            "If you are a fresher, highlight internships, freelance work, open-source, or academic projects in an experience-style section.",
+            "Tailor the resume keywords and project stories toward the target role: Product Manager."
+          ]
+        },
+        "uploadedAt": "2026-04-22T18:51:42.441Z"
+      }
+    },
+    "795d71f4-d7d0-4775-a652-0b2d3bc0828b": {
+      "profile": {
+        "name": "Unnamed Candidate",
+        "email": "",
+        "targetRole": "product-manager",
+        "createdAt": "2026-04-23T05:03:00.456Z"
+      },
+      "history": [
+        {
+          "resumeId": "53c93009-a321-4f09-97a4-45b23fa20439",
+          "uploadedAt": "2026-04-23T05:03:00.456Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 64,
+          "structureScore": 83,
+          "relevanceScore": 22,
+          "contentQualityScore": 100,
+          "shortlistProbability": 51,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "git",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 56
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 38
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 35
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 31
+            }
+          ]
+        },
+        {
+          "resumeId": "dc57f6cb-8a4d-4991-8bb0-5faf1f579089",
+          "uploadedAt": "2026-04-23T05:05:08.813Z",
+          "fileName": "Prashant Deshpande Resume 2026.pdf",
+          "totalScore": 76,
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "shortlistProbability": 65,
+          "missingSkills": [
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Product Manager",
+              "matchScore": 60
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 35
+            }
+          ]
+        }
+      ],
+      "latest": {
+        "targetRole": "product-manager",
+        "analysis": {
+          "extracted": {
+            "skills": [
+              "a/b testing",
+              "accessibility",
+              "agile",
+              "azure",
+              "ci/cd",
+              "go-to-market",
+              "prioritization",
+              "roadmap",
+              "sql",
+              "stakeholder management",
+              "tableau",
+              "testing"
+            ],
+            "projects": [
+              "Product Manager with 8+ years building EdTech and SaaS platforms in regulated environments. Expanded an LMS/SIS platform from 1 to 8",
+              "states, driving 40% market growth. Led cloud migrations, payments integrations, and compliance initiatives for platforms serving 300k+",
+              "Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "Defined requirements for per student and per seat billing system in partnership with sales and engineering; accurate license tracking",
+              "Owned backlog and roadmap for a cloud based education platform serving 300k+ users across 1,800 schools; shipped 14 releases with 40%",
+              "Led requirements and validation for on prem to hybrid cloud migration (Azure), improving system response time 35% and reducing",
+              "Defined integration requirements for payment gateway and vendor management system; streamlined invoice processing reduced payment",
+              "Delivered a secure learning platform for Department of Justice juvenile detention facilities, enabling continued education for 2500+ students"
+            ],
+            "experienceHighlights": [
+              "Product Manager",
+              "Florida Virtual School Orlando FL (Remote) Nov 2023 – Present",
+              "• Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "accessibility – growing addressable market by 40% and contributing to $1.2M in new contract pipelines.",
+              "• Redesigned 6 core modules (Reports, Gradebook, Email, Outcomes, CMT, Proof Shell) based on teacher and student feedback; adoption of",
+              "redesign features increased 30% within 90 days of release."
+            ],
+            "education": [
+              "MS Information Technology Management Campbellsville University 2023",
+              "Master of Business Administration University of Colorado Boulder 2021",
+              "Bachelor of Engineering Visvesvaraya Technological University 2014"
+            ]
+          },
+          "projects": {
+            "projectDescriptions": [
+              "Product Manager with 8+ years building EdTech and SaaS platforms in regulated environments. Expanded an LMS/SIS platform from 1 to 8",
+              "states, driving 40% market growth. Led cloud migrations, payments integrations, and compliance initiatives for platforms serving 300k+",
+              "Expanded LMS and SIS platform from Florida to 8 states by defining compliance requirements for FERPA, state reporting standards, and",
+              "Defined requirements for per student and per seat billing system in partnership with sales and engineering; accurate license tracking",
+              "Owned backlog and roadmap for a cloud based education platform serving 300k+ users across 1,800 schools; shipped 14 releases with 40%",
+              "Led requirements and validation for on prem to hybrid cloud migration (Azure), improving system response time 35% and reducing",
+              "Defined integration requirements for payment gateway and vendor management system; streamlined invoice processing reduced payment",
+              "Delivered a secure learning platform for Department of Justice juvenile detention facilities, enabling continued education for 2500+ students"
+            ],
+            "avgProjectStrength": 1.875
+          },
+          "experience": {
+            "yearsOfExperience": 0,
+            "roleMentions": 4,
+            "bulletCount": 14
+          },
+          "structureScore": 83,
+          "relevanceScore": 52,
+          "contentQualityScore": 100,
+          "totalScore": 76,
+          "skillGap": {
+            "role": "Product Manager",
+            "missingSkills": [
+              "analytics",
+              "communication",
+              "user research"
+            ],
+            "importantMissing": [],
+            "coverage": 40,
+            "nextLearningSteps": [
+              "analytics",
+              "communication",
+              "user research",
+              "Product discovery methods",
+              "Experiment design"
+            ]
+          },
+          "recommendations": {
+            "roles": [
+              {
+                "key": "product-manager",
+                "role": "Product Manager",
+                "matchScore": 60,
+                "reason": "Matches 2/5 core skills"
+              },
+              {
+                "key": "data-analyst",
+                "role": "Data Analyst",
+                "matchScore": 42,
+                "reason": "Matches 1/6 core skills"
+              },
+              {
+                "key": "software-engineer",
+                "role": "Software Engineer",
+                "matchScore": 39,
+                "reason": "Matches 1/7 core skills"
+              },
+              {
+                "key": "data-scientist",
+                "role": "Data Scientist",
+                "matchScore": 35,
+                "reason": "Matches 1/6 core skills"
+              }
+            ],
+            "listings": [
+              {
+                "id": "job-101",
+                "role": "software-engineer",
+                "title": "Backend Engineer",
+                "company": "Nexa Labs",
+                "location": "Bangalore",
+                "summary": "Build scalable APIs and distributed services."
+              },
+              {
+                "id": "job-102",
+                "role": "software-engineer",
+                "title": "Full Stack Developer",
+                "company": "Orbit Stack",
+                "location": "Hyderabad",
+                "summary": "Own product features across React and Node.js."
+              },
+              {
+                "id": "job-103",
+                "role": "data-analyst",
+                "title": "Business Data Analyst",
+                "company": "Insightly",
+                "location": "Pune",
+                "summary": "Create KPI dashboards and uncover business trends."
+              },
+              {
+                "id": "job-104",
+                "role": "data-scientist",
+                "title": "Applied ML Scientist",
+                "company": "PatternGrid",
+                "location": "Bangalore",
+                "summary": "Build and deploy predictive models for customer intelligence."
+              },
+              {
+                "id": "job-105",
+                "role": "product-manager",
+                "title": "Associate Product Manager",
+                "company": "Streamline",
+                "location": "Remote",
+                "summary": "Drive product discovery and launch experiments."
+              }
+            ]
+          },
+          "shortlistPrediction": {
+            "probability": 65,
+            "label": "Medium",
+            "note": "Heuristic estimate based on resume quality and role fit. Use as directional guidance."
+          },
+          "suggestions": [
+            "Add or build experience in missing skills for Product Manager: analytics, communication, user research.",
+            "If you are a fresher, highlight internships, freelance work, open-source, or academic projects in an experience-style section.",
+            "Tailor the resume keywords and project stories toward the target role: Product Manager."
+          ]
+        },
+        "uploadedAt": "2026-04-23T05:05:08.813Z"
+      }
+    },
+    "c6f5a8d6-820d-4d09-8e79-33b1026b84c1": {
+      "profile": {
+        "name": "Unnamed Candidate",
+        "email": "",
+        "targetRole": "data-scientist",
+        "createdAt": "2026-04-23T05:18:23.783Z"
+      },
+      "history": [
+        {
+          "resumeId": "333c70ff-7285-45dd-b6df-cd0a3b9ff91b",
+          "uploadedAt": "2026-04-23T05:18:23.783Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 55,
+          "structureScore": 55,
+          "relevanceScore": 25,
+          "contentQualityScore": 95,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 78
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 49
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 37
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 26
+            }
+          ]
+        },
+        {
+          "resumeId": "945afd21-b547-484a-9eeb-ff072f5009ec",
+          "uploadedAt": "2026-04-23T05:18:30.721Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "b9672c33-690d-49c8-8cff-e6e77126cff4",
+          "uploadedAt": "2026-04-23T05:18:35.346Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        }
+      ],
+      "latest": {
+        "targetRole": "data-scientist",
+        "analysis": {
+          "extracted": {
+            "skills": [
+              "deep learning",
+              "feature engineering",
+              "git",
+              "machine learning",
+              "numpy",
+              "pandas",
+              "performance",
+              "python",
+              "scikit-learn",
+              "sql",
+              "statistics",
+              "testing"
+            ],
+            "projects": [
+              "model and a deployed system, with hands on exposure to MLOps, imbalanced data handling, feature",
+              "Result: Developed strong intuition around Precision/Recall trade offs on imbalanced datasets — insight",
+              "directly applied in subsequent projects. Collaborated effectively via Git branching and pull requests without",
+              "PROJECT EXPERIENCE",
+              "Real Time Fraud Detection Pipeline · Personal Project · 2025 repo↗",
+              "system that could be deployed — not just a notebook experiment.",
+              "Action: Applied SMOTE exclusively within training folds to prevent data leakage, and built the full MLOps",
+              "Student Performance Prediction · Personal Project · 2024 repo↗"
+            ],
+            "experienceHighlights": [
+              "Machine Learning Intern · Istudio Technologies · Aug 2025 – Jan 2026 | Remote",
+              "•Situation/Task: Tasked with delivering complete ML workflows on raw structured datasets — from",
+              "ingestion through to evaluation — independently within a live, shared team codebase.",
+              "•Action: Designed end-to-end pipelines covering data cleaning, feature engineering, model training and",
+              "evaluation; applied GridSearchCV with stratified k-fold cross-validation across multiple estimators, achieving",
+              "a 15% accuracy improvement through disciplined hyperparameter tuning."
+            ],
+            "education": [
+              "B.E. in Artificial Intelligence & Machine Learning · Don Bosco Institute of Technology (DBIT), Bengaluru · 2024"
+            ]
+          },
+          "projects": {
+            "projectDescriptions": [
+              "model and a deployed system, with hands on exposure to MLOps, imbalanced data handling, feature",
+              "Result: Developed strong intuition around Precision/Recall trade offs on imbalanced datasets — insight",
+              "directly applied in subsequent projects. Collaborated effectively via Git branching and pull requests without",
+              "PROJECT EXPERIENCE",
+              "Real Time Fraud Detection Pipeline · Personal Project · 2025 repo↗",
+              "system that could be deployed — not just a notebook experiment.",
+              "Action: Applied SMOTE exclusively within training folds to prevent data leakage, and built the full MLOps",
+              "Student Performance Prediction · Personal Project · 2024 repo↗"
+            ],
+            "avgProjectStrength": 1.375
+          },
+          "experience": {
+            "yearsOfExperience": 0,
+            "roleMentions": 1,
+            "bulletCount": 8
+          },
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "totalScore": 79,
+          "skillGap": {
+            "role": "Data Scientist",
+            "missingSkills": [],
+            "importantMissing": [
+              "nlp",
+              "model deployment"
+            ],
+            "coverage": 100,
+            "nextLearningSteps": [
+              "Supervised learning workflows",
+              "Model validation and tuning",
+              "nlp",
+              "model deployment"
+            ]
+          },
+          "recommendations": {
+            "roles": [
+              {
+                "key": "data-scientist",
+                "role": "Data Scientist",
+                "matchScore": 86,
+                "reason": "Matches 6/6 core skills"
+              },
+              {
+                "key": "data-analyst",
+                "role": "Data Analyst",
+                "matchScore": 57,
+                "reason": "Matches 3/6 core skills"
+              },
+              {
+                "key": "software-engineer",
+                "role": "Software Engineer",
+                "matchScore": 45,
+                "reason": "Matches 2/7 core skills"
+              },
+              {
+                "key": "frontend-developer",
+                "role": "Frontend Developer",
+                "matchScore": 34,
+                "reason": "Matches 0/6 core skills"
+              }
+            ],
+            "listings": [
+              {
+                "id": "job-101",
+                "role": "software-engineer",
+                "title": "Backend Engineer",
+                "company": "Nexa Labs",
+                "location": "Bangalore",
+                "summary": "Build scalable APIs and distributed services."
+              },
+              {
+                "id": "job-102",
+                "role": "software-engineer",
+                "title": "Full Stack Developer",
+                "company": "Orbit Stack",
+                "location": "Hyderabad",
+                "summary": "Own product features across React and Node.js."
+              },
+              {
+                "id": "job-103",
+                "role": "data-analyst",
+                "title": "Business Data Analyst",
+                "company": "Insightly",
+                "location": "Pune",
+                "summary": "Create KPI dashboards and uncover business trends."
+              },
+              {
+                "id": "job-104",
+                "role": "data-scientist",
+                "title": "Applied ML Scientist",
+                "company": "PatternGrid",
+                "location": "Bangalore",
+                "summary": "Build and deploy predictive models for customer intelligence."
+              },
+              {
+                "id": "job-106",
+                "role": "frontend-developer",
+                "title": "Frontend Engineer",
+                "company": "Pixel Harbor",
+                "location": "Chennai",
+                "summary": "Deliver polished, accessible, and responsive interfaces."
+              }
+            ]
+          },
+          "shortlistPrediction": {
+            "probability": 84,
+            "label": "High",
+            "note": "Heuristic estimate based on resume quality and role fit. Use as directional guidance."
+          },
+          "suggestions": [
+            "Improve resume structure by adding clear section headers for Skills, Experience, Projects, and Education.",
+            "If you are a fresher, highlight internships, freelance work, open-source, or academic projects in an experience-style section."
+          ]
+        },
+        "uploadedAt": "2026-04-23T05:18:35.346Z"
+      }
+    },
+    "76e1bbd5-65f0-48c1-92bc-3a33fdee00a8": {
+      "profile": {
+        "name": "Nikhil Raj",
+        "email": "rajnikhil0808@gmail.com",
+        "targetRole": "data-scientist",
+        "createdAt": "2026-05-06T17:25:42.200Z"
+      },
+      "history": [
+        {
+          "resumeId": "3e71a648-f651-4021-82f6-34a5e1b574f0",
+          "uploadedAt": "2026-05-06T17:25:42.200Z",
+          "fileName": "Gaurav_Singh.pdf",
+          "totalScore": 60,
+          "structureScore": 90,
+          "relevanceScore": 22,
+          "contentQualityScore": 82,
+          "shortlistProbability": 52,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "statistics",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Software Engineer",
+              "matchScore": 48
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 42
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 38
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 38
+            }
+          ]
+        },
+        {
+          "resumeId": "ab25ef37-5119-49af-83a1-ec28027eacc8",
+          "uploadedAt": "2026-05-06T17:25:48.628Z",
+          "fileName": "Gaurav_Singh.pdf",
+          "totalScore": 71,
+          "structureScore": 90,
+          "relevanceScore": 48,
+          "contentQualityScore": 82,
+          "shortlistProbability": 61,
+          "missingSkills": [
+            "typescript",
+            "node.js",
+            "git",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Software Engineer",
+              "matchScore": 52
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 45
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 42
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 42
+            }
+          ]
+        },
+        {
+          "resumeId": "ee908fae-38c6-490e-8bf9-64b1d81c817d",
+          "uploadedAt": "2026-05-06T17:25:53.050Z",
+          "fileName": "Gaurav_Singh.pdf",
+          "totalScore": 53,
+          "structureScore": 90,
+          "relevanceScore": 3,
+          "contentQualityScore": 82,
+          "shortlistProbability": 39,
+          "missingSkills": [
+            "roadmap",
+            "stakeholder management",
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Software Engineer",
+              "matchScore": 46
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 39
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 36
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 36
+            }
+          ]
+        },
+        {
+          "resumeId": "67f78ece-d935-415d-a5b8-c46920255f1f",
+          "uploadedAt": "2026-05-06T17:25:57.412Z",
+          "fileName": "Gaurav_Singh.pdf",
+          "totalScore": 65,
+          "structureScore": 90,
+          "relevanceScore": 33,
+          "contentQualityScore": 82,
+          "shortlistProbability": 55,
+          "missingSkills": [
+            "html",
+            "css",
+            "typescript",
+            "responsive design"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Software Engineer",
+              "matchScore": 50
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 43
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 40
+            },
+            {
+              "role": "Data Scientist",
+              "matchScore": 40
+            }
+          ]
+        },
+        {
+          "resumeId": "066d1c73-25da-40ee-b477-d9af83df65df",
+          "uploadedAt": "2026-05-06T17:28:05.680Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        },
+        {
+          "resumeId": "091ca52e-9782-4f1c-89e4-8a381d41c98c",
+          "uploadedAt": "2026-05-06T17:40:15.395Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 55,
+          "structureScore": 55,
+          "relevanceScore": 25,
+          "contentQualityScore": 95,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 78
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 49
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 37
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 26
+            }
+          ]
+        },
+        {
+          "resumeId": "08d0782f-6c2c-4803-8cf7-3373a27c0405",
+          "uploadedAt": "2026-05-06T17:40:56.227Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 55,
+          "structureScore": 55,
+          "relevanceScore": 25,
+          "contentQualityScore": 95,
+          "shortlistProbability": 50,
+          "missingSkills": [
+            "javascript",
+            "typescript",
+            "react",
+            "node.js",
+            "rest api"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 78
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 49
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 37
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 26
+            }
+          ]
+        },
+        {
+          "resumeId": "f4afed89-3dcb-4546-a226-6e62086fcbb2",
+          "uploadedAt": "2026-05-06T17:41:14.878Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 45,
+          "structureScore": 55,
+          "relevanceScore": 0,
+          "contentQualityScore": 95,
+          "shortlistProbability": 37,
+          "missingSkills": [
+            "roadmap",
+            "stakeholder management",
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 74
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 45
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 33
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 22
+            }
+          ]
+        },
+        {
+          "resumeId": "403d5ebd-5576-41f8-a567-f2e6a4c92011",
+          "uploadedAt": "2026-05-06T17:42:02.994Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 45,
+          "structureScore": 55,
+          "relevanceScore": 0,
+          "contentQualityScore": 95,
+          "shortlistProbability": 37,
+          "missingSkills": [
+            "roadmap",
+            "stakeholder management",
+            "analytics",
+            "communication",
+            "user research"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 74
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 45
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 33
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 22
+            }
+          ]
+        },
+        {
+          "resumeId": "80682eb2-8a2d-4d28-a9dc-3433c9dcb079",
+          "uploadedAt": "2026-05-06T17:42:08.520Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 60,
+          "structureScore": 55,
+          "relevanceScore": 38,
+          "contentQualityScore": 95,
+          "shortlistProbability": 59,
+          "missingSkills": [
+            "excel",
+            "power bi",
+            "data visualization"
+          ],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 80
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 50
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 38
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 28
+            }
+          ]
+        },
+        {
+          "resumeId": "37d0a962-3e57-431b-8cb2-db0efb930234",
+          "uploadedAt": "2026-05-06T17:42:14.010Z",
+          "fileName": "Rafi_UK_CV_Final.pdf",
+          "totalScore": 79,
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "shortlistProbability": 84,
+          "missingSkills": [],
+          "topRecommendedRoles": [
+            {
+              "role": "Data Scientist",
+              "matchScore": 86
+            },
+            {
+              "role": "Data Analyst",
+              "matchScore": 57
+            },
+            {
+              "role": "Software Engineer",
+              "matchScore": 45
+            },
+            {
+              "role": "Frontend Developer",
+              "matchScore": 34
+            }
+          ]
+        }
+      ],
+      "latest": {
+        "targetRole": "data-scientist",
+        "analysis": {
+          "extracted": {
+            "skills": [
+              "deep learning",
+              "feature engineering",
+              "git",
+              "machine learning",
+              "numpy",
+              "pandas",
+              "performance",
+              "python",
+              "scikit-learn",
+              "sql",
+              "statistics",
+              "testing"
+            ],
+            "projects": [
+              "model and a deployed system, with hands on exposure to MLOps, imbalanced data handling, feature",
+              "Result: Developed strong intuition around Precision/Recall trade offs on imbalanced datasets — insight",
+              "directly applied in subsequent projects. Collaborated effectively via Git branching and pull requests without",
+              "PROJECT EXPERIENCE",
+              "Real Time Fraud Detection Pipeline · Personal Project · 2025 repo↗",
+              "system that could be deployed — not just a notebook experiment.",
+              "Action: Applied SMOTE exclusively within training folds to prevent data leakage, and built the full MLOps",
+              "Student Performance Prediction · Personal Project · 2024 repo↗"
+            ],
+            "experienceHighlights": [
+              "Machine Learning Intern · Istudio Technologies · Aug 2025 – Jan 2026 | Remote",
+              "•Situation/Task: Tasked with delivering complete ML workflows on raw structured datasets — from",
+              "ingestion through to evaluation — independently within a live, shared team codebase.",
+              "•Action: Designed end-to-end pipelines covering data cleaning, feature engineering, model training and",
+              "evaluation; applied GridSearchCV with stratified k-fold cross-validation across multiple estimators, achieving",
+              "a 15% accuracy improvement through disciplined hyperparameter tuning."
+            ],
+            "education": [
+              "B.E. in Artificial Intelligence & Machine Learning · Don Bosco Institute of Technology (DBIT), Bengaluru · 2024"
+            ]
+          },
+          "projects": {
+            "projectDescriptions": [
+              "model and a deployed system, with hands on exposure to MLOps, imbalanced data handling, feature",
+              "Result: Developed strong intuition around Precision/Recall trade offs on imbalanced datasets — insight",
+              "directly applied in subsequent projects. Collaborated effectively via Git branching and pull requests without",
+              "PROJECT EXPERIENCE",
+              "Real Time Fraud Detection Pipeline · Personal Project · 2025 repo↗",
+              "system that could be deployed — not just a notebook experiment.",
+              "Action: Applied SMOTE exclusively within training folds to prevent data leakage, and built the full MLOps",
+              "Student Performance Prediction · Personal Project · 2024 repo↗"
+            ],
+            "avgProjectStrength": 1.375
+          },
+          "experience": {
+            "yearsOfExperience": 0,
+            "roleMentions": 1,
+            "bulletCount": 8
+          },
+          "structureScore": 55,
+          "relevanceScore": 84,
+          "contentQualityScore": 95,
+          "totalScore": 79,
+          "skillGap": {
+            "role": "Data Scientist",
+            "missingSkills": [],
+            "importantMissing": [
+              "nlp",
+              "model deployment"
+            ],
+            "coverage": 100,
+            "nextLearningSteps": [
+              "Supervised learning workflows",
+              "Model validation and tuning",
+              "nlp",
+              "model deployment"
+            ]
+          },
+          "recommendations": {
+            "roles": [
+              {
+                "key": "data-scientist",
+                "role": "Data Scientist",
+                "matchScore": 86,
+                "reason": "Matches 6/6 core skills"
+              },
+              {
+                "key": "data-analyst",
+                "role": "Data Analyst",
+                "matchScore": 57,
+                "reason": "Matches 3/6 core skills"
+              },
+              {
+                "key": "software-engineer",
+                "role": "Software Engineer",
+                "matchScore": 45,
+                "reason": "Matches 2/7 core skills"
+              },
+              {
+                "key": "frontend-developer",
+                "role": "Frontend Developer",
+                "matchScore": 34,
+                "reason": "Matches 0/6 core skills"
+              }
+            ],
+            "listings": [
+              {
+                "id": "job-101",
+                "role": "software-engineer",
+                "title": "Backend Engineer",
+                "company": "Nexa Labs",
+                "location": "Bangalore",
+                "summary": "Build scalable APIs and distributed services."
+              },
+              {
+                "id": "job-102",
+                "role": "software-engineer",
+                "title": "Full Stack Developer",
+                "company": "Orbit Stack",
+                "location": "Hyderabad",
+                "summary": "Own product features across React and Node.js."
+              },
+              {
+                "id": "job-103",
+                "role": "data-analyst",
+                "title": "Business Data Analyst",
+                "company": "Insightly",
+                "location": "Pune",
+                "summary": "Create KPI dashboards and uncover business trends."
+              },
+              {
+                "id": "job-104",
+                "role": "data-scientist",
+                "title": "Applied ML Scientist",
+                "company": "PatternGrid",
+                "location": "Bangalore",
+                "summary": "Build and deploy predictive models for customer intelligence."
+              },
+              {
+                "id": "job-106",
+                "role": "frontend-developer",
+                "title": "Frontend Engineer",
+                "company": "Pixel Harbor",
+                "location": "Chennai",
+                "summary": "Deliver polished, accessible, and responsive interfaces."
+              }
+            ]
+          },
+          "shortlistPrediction": {
+            "probability": 84,
+            "label": "High",
+            "note": "Heuristic estimate based on resume quality and role fit. Use as directional guidance."
+          },
+          "suggestions": [
+            "Improve resume structure by adding clear section headers for Skills, Experience, Projects, and Education.",
+            "If you are a fresher, highlight internships, freelance work, open-source, or academic projects in an experience-style section."
+          ]
+        },
+        "uploadedAt": "2026-05-06T17:42:14.010Z"
+      }
+    }
+  }
+}

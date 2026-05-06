@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Resume Analyzer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">Career Intelligence Dashboard</p>
+        <h1>AI Resume Analyzer and Job Fit Recommender</h1>
+        <p class="hero-copy">
+          Upload a resume, get a quality score, close your skill gaps, and track measurable improvements across versions.
+        </p>
+      </header>
+
+      <main class="grid-layout">
+        <section class="panel upload-panel">
+          <h2>Resume Upload</h2>
+          <form id="analyzeForm">
+            <div class="field-grid">
+              <label>
+                Full Name
+                <input type="text" id="name" placeholder="Jane Doe" />
+              </label>
+              <label>
+                Email
+                <input type="email" id="email" placeholder="jane@email.com" />
+              </label>
+              <label>
+                Target Role
+                <select id="targetRole"></select>
+              </label>
+              <label>
+                Candidate ID (optional)
+                <input type="text" id="candidateId" placeholder="Reuse existing ID for tracking" />
+              </label>
+            </div>
+            <label class="file-drop">
+              <span>Upload Resume (.pdf/.docx/.txt)</span>
+              <input type="file" id="resumeFile" accept=".pdf,.docx,.txt" required />
+            </label>
+            <button type="submit" id="analyzeBtn">Analyze Resume</button>
+          </form>
+          <p id="statusText" class="status-text">Ready to analyze.</p>
+        </section>
+
+        <section class="panel quick-panel">
+          <h2>Load Candidate Progress</h2>
+          <div class="quick-actions">
+            <input type="text" id="lookupCandidateId" placeholder="Enter Candidate ID" />
+            <button id="loadHistoryBtn" class="secondary-btn">Load History</button>
+          </div>
+          <p id="activeCandidate" class="candidate-meta">No candidate selected.</p>
+        </section>
+
+        <section class="panel kpi-panel" id="scorePanel">
+          <h2>Score Snapshot</h2>
+          <div class="kpi-grid">
+            <article class="kpi-card">
+              <p>Total Score</p>
+              <h3 id="totalScore">--</h3>
+            </article>
+            <article class="kpi-card">
+              <p>Structure</p>
+              <h3 id="structureScore">--</h3>
+            </article>
+            <article class="kpi-card">
+              <p>Relevance</p>
+              <h3 id="relevanceScore">--</h3>
+            </article>
+            <article class="kpi-card">
+              <p>Content Quality</p>
+              <h3 id="contentScore">--</h3>
+            </article>
+            <article class="kpi-card accent">
+              <p>Shortlisting Chance</p>
+              <h3 id="shortlistChance">--</h3>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel two-col">
+          <article>
+            <h2>Extracted Resume Insights</h2>
+            <div class="chips" id="skillsChips"></div>
+            <h3>Projects</h3>
+            <ul id="projectList"></ul>
+            <h3>Education</h3>
+            <ul id="educationList"></ul>
+          </article>
+          <article>
+            <h2>Actionable Suggestions</h2>
+            <ul id="suggestionList" class="suggestion-list"></ul>
+            <h3>Next Learning Steps</h3>
+            <ol id="learningList"></ol>
+          </article>
+        </section>
+
+        <section class="panel two-col">
+          <article>
+            <h2>Skill Gap Analyzer</h2>
+            <div class="bar-wrap">
+              <p>Role Coverage</p>
+              <div class="bar-track"><span id="coverageBar"></span></div>
+              <strong id="coverageLabel">--</strong>
+            </div>
+            <h3>Missing Core Skills</h3>
+            <ul id="missingSkills"></ul>
+            <h3>Important Skill Gaps</h3>
+            <ul id="importantSkills"></ul>
+          </article>
+          <article>
+            <h2>Role Recommendations</h2>
+            <ul id="roleList"></ul>
+            <h3>Suggested Job Listings</h3>
+            <ul id="jobList"></ul>
+          </article>
+        </section>
+
+        <section class="panel progress-panel">
+          <h2>Progress Tracker</h2>
+          <p id="progressMeta">Upload multiple resume versions to view trend over time.</p>
+          <div class="chart-shell">
+            <svg id="progressChart" viewBox="0 0 620 220" aria-label="Score trend chart"></svg>
+          </div>
+          <div class="history-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>File</th>
+                  <th>Total</th>
+                  <th>Structure</th>
+                  <th>Relevance</th>
+                  <th>Quality</th>
+                  <th>Shortlist %</th>
+                </tr>
+              </thead>
+              <tbody id="historyTableBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
